@@ -35,9 +35,61 @@ dos negócios da empresa.
 A auditoria de sistemas, por sua vez, esta relacionada à avaliação dos
 sistemas de informação e dos recursos tecnológicos que englobam o processo de
 geração, guarda e disponibilização da informação.
+
+### Ferramentas de auditoria
+Segundo Castro [8], em todo o trabalho da auditoria interna as ferramentas
+utilizadas no cumprimento de seus objetivos, são baseadas nos instrumentos
+desenvolvidos e aplicados na auditoria externa. As ferramentas de auditoria,
+portanto, são instrumentos que o auditor possui para atingir suas metas, definidas
+no planejamento de auditoria, independente do tipo de auditoria praticada.
+As ferramentas de auditoria podem ser classificadas em generalistas,
+especializadas e de utilidade geral. Essas categorias são apresentadas a seguir.
+Ferramentas generalistas
+As ferramentas generalistas de auditoria, segundo Lyra [5] e Imoniana [4],
+são softwares que podem processar, simular, analisar amostras, gerar dados
+estatísticos, sumarizar, apontar duplicidade e outras funções que o auditor
+desejar.
+As vantagens do uso desse tipo de ferramenta são:
+- O software pode processar diversos arquivos ao mesmo tempo;
+- Pode processar vários tipos de arquivos em vários formatos;
+- Permite integração sistêmica com vários tipos de softwares e hardwares;
+- Reduz a dependência do auditor em relação ao especialista de informática.
+As desvantagens são:
+- Como o processamento das aplicações envolve gravação de dados em
+separado para serem analisados em ambientes distintos, poucas aplicações
+poderiam ser feitas em ambiente online;
+- Se o auditor precisar rodar cálculos complexos, o software não poderá dar
+esse apoio, pois tal sistema, para dar assistência generalista a todos os
+auditores, evita aprofundar as lógicas e matemáticas muito complexas.
+A seguir são apresentadas as principais ferramentas generalistas.
 A função da auditoria de sistemas é promover a adequação, revisão,
 avaliação e recomendações para o aprimoramento dos controles internos em qualquer um dos sistemas de informação da empresa, bem como avaliar a
 utilização dos recursos humanos, materiais e tecnológicos envolvidos no
 processamento dos mesmos.
 
-###
+### Na execução da auditoria de TI podem ser evidenciadas diversas etapas,
+dentre elas, segundo GARY [17], escopo e levantamento de pré-auditoria,
+planejamento e preparação, trabalho de campo, análise, relatório e encerramento.
+As Técnicas de Auditoria Assistida por Computador (CAATs) que utilizam
+ferramentas generalistas como ACL ou IDEA são utilizadas principalmente nas
+etapas de trabalho de campo e análise.
+O trabalho de campo envolve a coleta de provas por meio de entrevista
+pessoal com os gerentes, revisão de documentos, impressões e dados,
+observação dos processos em ação etc.
+A análise envolve o trabalho de resolver os problemas, analisar e tentar dar
+sentido a todas as provas que foram recolhidas. Envolve frequentemente refazer
+os passos de alguém, voltando às etapas anteriores, na tentativa de obter ou
+coletar novas provas.
+As ferramentas de auditoria, tanto as generalistas quanto as especializadas
+são desenvolvidas por profissionais e empresas com grande conhecimento dos
+processos de auditoria e envolve geralmente profissionais de TI e de outras áreas
+do conhecimento, como finanças, design etc. Profissionais que desenvolvem
+ferramentas especializadas para resolver problemas complexos geralmente
+possuem vantagem competitiva, apesar de que o custo do desenvolvimento
+dessas ferramentas é alto devido ao fato de serem utilizadas geralmente em um
+cliente em particular.
+No processo de auditoria as ferramentas são instrumentos que o auditor
+possui para atingir suas metas, definidas no planejamento de auditoria,
+independente do tipo de auditoria praticada. São importantes para agilizar o
+processo de auditoria por meio da automatização de processos, execução de
+cálculos complexos, auxilio na análise de resultados e geração de relatórios. 
